@@ -1,0 +1,37 @@
+[
+    {
+      "name":"Caribbean New Year",
+      "description":"Cruise the Caribbean & Celebrate the New Year.",
+      "startdate":"2019-12-25",
+      "enddate":"2020-01-04",
+      "price":"4800"
+    },
+    {
+      "name":"Polynesian Paradise",
+      "description":"8 Day All Inclusive Hawaiian Vacation",
+      "startdate":"2019-12-12",
+      "enddate":"2019-12-20",
+      "price":"3500"
+    },
+    {
+      "name":"Asian Expedition",
+      "description":"Airfaire, Hotel and Eco Tour",
+      "startdate":"2020-1-22",
+      "enddate":"2020-2-2",
+      "price":"4200"
+    },
+    {
+      "name":"European Vacation",
+      "description":"Euro Tour with Rail Pass and Travel Insurance",
+      "startdate":"2020-2-12",
+      "enddate":"2020-2-24",
+      "price":"5200"
+    },
+    {
+      "name":"African Safari",
+      "description":"Awe-inspiring African wilderness, spectacular landscapes, magnificent wildlife, sundowners in the bush, evenings by the campfire, nights under canvas listening to the roar of lions and the cackling of hyenas.",
+      "startdate":"2020-3-2",
+      "enddate":"2020-3-14",
+      "price":"5800"
+    }
+  ]
